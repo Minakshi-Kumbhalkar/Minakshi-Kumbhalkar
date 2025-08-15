@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Minakshi Kumbhalkar 👋  
 
-<!--
-**Minakshi-Kumbhalkar/Minakshi-Kumbhalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🎯 **Aspiring Software Developer | Full Stack Java Developer Trainee**  
+  💻 Skilled in HTML, CSS, JavaScript, SQL, C, and C++  
+  🌱 Currently learning **Full Stack Java Development**  
+  🚀 Passionate about building creative, user-friendly, and efficient applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me  
+  🎓 **BCA Graduate** — Dr. S.C. Gulhane Prerna College of Commerce, Nagpur University (2024)   
+  💡 Love solving problems, exploring new technologies, and turning ideas into real-world projects  
+  ⚡ **Fun Fact:** My code works perfectly... until someone asks me to run it live 😅  
+
+---
+
+## 🛠 Tech Stack  
+  **Languages:**  
+    C, C++, JavaScript  
+  **Frontend:**  
+    HTML, CSS  
+  **Database:**  
+    SQL  
+  **Tools:**  
+    GitHub, VS Code, Dev C++,  
+
+---
+
+## 📌 Projects  
+ **IBooma Web Page** — Responsive HTML/CSS landing page  
+ **Student Course Registration System** — Interactive enrollment platform (HTML, CSS, JS)  
+ **Student Result Generator** — Dynamic result display tool (HTML, CSS, JS)  
+
+---
+
+## 📫 Connect with Me  
+  📍 Nagpur, Maharashtra, India  
+  📞 **9022876803**  
+  ✉ **minakshikumbhalkar29@gmail.com**  
+  **LinkedIn Profile**
+  https://www.linkedin.com/in/minakshi-kumbhalkar-3a013422a  
+    
+
+
