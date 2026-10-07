@@ -1,8 +1,8 @@
 # Hi there, I'm Minakshi Kumbhalkar  
 
-   **Aspiring Software Developer | Full Stack Java Developer Trainee**  
-   Skilled in HTML, CSS, JavaScript, SQL, C, and C++  
-   Currently learning **Full Stack Java Development**  
+   **Aspiring Software Developer | Full Stack Java Developer**  
+   Skilled in HTML, CSS, Java, Springboot, JavaScript, SQL, C, and C++  
+   Currently Working on **Full Stack Java Projects**  
    Passionate about building creative, user-friendly, and efficient applications  
 
 ---
@@ -16,13 +16,15 @@
 
 ##  Tech Stack  
   **Languages:**  
-    C, C++, JavaScript  
+    C, C++, JavaScript, Java 
   **Frontend:**  
     HTML, CSS  
   **Database:**  
     SQL  
   **Tools:**  
-    GitHub, VS Code, Dev C++,  
+    GitHub, VS Code, Dev C++,
+  **Framework:**
+    Springboot
 
 ---
 
