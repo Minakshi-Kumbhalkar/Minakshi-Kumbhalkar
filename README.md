@@ -8,7 +8,7 @@
 ---
 
 ##  About Me  
-   **MCA Persuing** — Indian Institue Of Information Technology Vadodara
+   **MCA Persuing** — Indian Institue Of Information Technology Vadodara.
    **BCA Graduate** — Dr. S.C. Gulhane Prerna College of Commerce, Nagpur University (2024)   
    Love solving problems, exploring new technologies, and turning ideas into real-world projects  
    **Fun Fact:** My code works perfectly... until someone asks me to run it live  
